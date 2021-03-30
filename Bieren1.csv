@@ -1,0 +1,29 @@
+﻿Brewery;Name beer;Alcohol percentage;Temperature;Accomodation;content;Kleur;land;Taste;Soort
+Texelse bierbrouwerij;Overzee IPA;6;6;Bovengisting;30;blond;Nederland;Fris & Fruitig, Hoppig & Bitter;IPA
+Texelse bierbrouwerij;Skuumkoppe;6;6;Bovengisting;30;amber;Nederland;Fris & Fruitig, Zoet & Zacht;Amber
+Texelse bierbrouwerij;Wit;5;5;Bovengisting;30;Blond ;Nederland;Fris & Fruitig, Fris & Fruitig;Wit
+Texelse bierbrouwerij;Tripel;9;8;Bovengisting;30;amber;Nederland;Hoppig & Bitter, Zoet & Zacht;Tripel
+Texelse bierbrouwerij;Goudkoppe;6;6;Bovengisting;30;Blond;Nederland;Fris & Fruitig, Zoet & Zacht;Blond
+Texelse bierbrouwerij;Vuurbaak;6;6;Bovengisting;30;Rood;Nederland;Donker & Rijk, Zoet & Zacht;Pale ale
+Texelse bierbrouwerij;Springtij;8;7;Bovengisting;30;Blond;Nederland;Fris & Fruitig, Fris & Fruitig;Bok
+Brasserie d'Achouffe;Chouffe Houblon;9;8;Bovengisting;33;Blond;België;Fris & Fruitig, Hoppig & Bitter;IPA
+Brasserie d'Achouffe;Chouffe Blanche;7;5;Bovengisting;33;Blond;België;Fris & Fruitig, Fris & Fruitig;Wit
+Brasserie d'Achouffe;Cherry chouffe;8;8;Bovengisting;33;Rood;België;Fris & Fruitig, Zoet & Zacht;Fruit
+Brasserie d'Achouffe;MC Chouffe;8;10;Bovengisting;33;Rood;België;Kruidig & extra smaakvol, Zoet & zacht;Belgian Strong Ale
+Brasserie d'Achouffe;La Chouffe Blond;8;6;Bovengisting;33;Blond;België;Citrus & Verfrissend, Fris & Fruitig;Blond
+Brasserie d'Achouffe;Chouffe Soleil;6;6;Bovengisting;33;Blond;België;Citrus & Verfrissend, Fris & Fruitig;Blond
+Brasserie d'Achouffe;N'ice Chouffe;7;9;Bovengisting;33;Rood;België;Donker & Rijk, Kruidig & Extra Smaakvol;Kerstbier
+Scheldebrouwerij;n Toeback;9;10;Bovengisting;33;Amber;België;Hoppig & Bitter, Zoet & Zacht;Blond
+Scheldebrouwerij;Witheer;5;5;Bovengisting;33;Blond;België;Fris & Fruitig, Fris & Fruitig;Wit
+Scheldebrouwerij;Ginnegapper;9;8;Bovengisting;33;Blond;België;Hoppig & Bitter, Kruidig & Extra Smaakvol;Blond
+Scheldebrouwerij;Krab;5;7;Bovengisting;33;amber;België;Fris & Fruitig, Kruidig & Extra Smaakvol;Amber 
+Scheldebrouwerij;Oesterstout;9;10;Bovengisting;33;Zwart;België;Kruidig & Extra Smaakvol, Zoet & Zacht;Stout
+Scheldebrouwerij;Hop Euiter;8;8;Bovengisting;33;Blond;België;Fris & Fruitig, Hoppig & Bitter;IPA
+Scheldebrouwerij;Lamme Goedzak;7;8;Bovengisting;33;Blond;België;Fris & Fruitig, Fris & Fruitig;Blond
+Scheldebrouwerij;Dulle Griet;7;8;Bovengisting;33;Bruin;België;Donker & Rijk, Donker & Rijk;Dubbel
+Scheldebrouwerij;Strandgaper;7;6;Bovengisting;33;amber;België;Fris & Fruitig, Fris & Fruitig;Blond
+Scheldebrouwerij;Wildebok;7;9;Bovengisting;33;Rood;België;Chocolade & Karamel, Zoet & Zacht;Bok
+TX Brouwerij;TX Hopblond;7;8;Bovengisting;33;Oranje;Nederland;Fris & Fruitig, Hoppig & Bitter;Belgian Strong Ale
+TX Brouwerij;TX Barrel Aged Bock;11;13;Ondergisting;50;Bruin;Nederland;Chocolade & Karamel, Kruidig & Extra Smaakvol;Bok
+TX Brouwerij;TX Goudwit;4;5;Bovengisting;33;Blond;Nederland;Fris & Fruitig, Fris & Fruitig;Wit
+TX Brouwerij;TX Donkerblond;6;6;Bovengisting;33;Oranje;Nederland;Fris & Fruitig, Fris & Fruitig;Blond
